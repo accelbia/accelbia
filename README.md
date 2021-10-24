@@ -5,8 +5,6 @@
   
 ![mid](https://user-images.githubusercontent.com/67522615/138584844-aff65bc1-76f1-44b0-8f14-db93920bca78.gif)
 
-
-
 <img src="https://user-images.githubusercontent.com/67522615/138580131-514b089a-dfc9-469f-9188-c4266b632279.png" width="810"/>
 
 </p>

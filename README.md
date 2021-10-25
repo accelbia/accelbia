@@ -5,6 +5,5 @@
 <img src="https://user-images.githubusercontent.com/67522615/138585409-c23ecf74-3c0b-4a38-958c-a3718b07f029.gif" />
 
 
-<img src="https://user-images.githubusercontent.com/67522615/138580131-514b089a-dfc9-469f-9188-c4266b632279.png" width="810"/>
-
 </p>
+![Homepage-02](https://user-images.githubusercontent.com/67522615/138690644-e0aa183c-8958-4bbe-b994-7efbd9146e09.png)

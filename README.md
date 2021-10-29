@@ -1,5 +1,4 @@
 
-![banner](https://user-images.githubusercontent.com/67522615/139367275-83998cd8-e3f8-42f9-80d4-8a9cc87e2808.png)
 
   ![Cover 1-01](https://user-images.githubusercontent.com/67522615/138687872-c1f6d277-816b-442c-b62d-24e5dfcb798e.png)
  
